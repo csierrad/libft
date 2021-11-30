@@ -1,0 +1,18 @@
+#include <stdio.h>
+#include <ctype.h>
+
+
+int ft_isdigit(int c)
+{
+	return(c >= '0' && c <= '9');
+}
+
+
+/*
+int main()
+{
+	printf("%d\n", ft_isdigit('3'));
+
+	return 0;
+}
+*/
