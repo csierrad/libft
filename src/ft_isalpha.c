@@ -1,6 +1,4 @@
 #include <stdio.h>
-#include <ctype.h>
-
 
 int ft_isalpha(int c)
 {
@@ -8,11 +6,12 @@ int ft_isalpha(int c)
 }
 
 
-/*
+/* 
 int main()
 {
 	printf("%d\n", ft_isalpha('3'));
 
 	return 0;
 }
-*/
+
+ */
